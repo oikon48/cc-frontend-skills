@@ -1,0 +1,16 @@
+{
+  "name": "cc-frontend-skills",
+  "owner": {
+    "name": "sa"
+  },
+  "plugins": [
+    {
+      "name": "frontend-skills",
+      "source": "./",
+      "description": "Distinctive frontend design skills and agents for professional UI implementation",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["frontend", "ui", "design-system", "tailwind", "react"]
+    }
+  ]
+}

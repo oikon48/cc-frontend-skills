@@ -9,10 +9,27 @@ A Claude Code plugin for creating distinctive, production-grade frontend UIs tha
 - **Asymmetric layouts** - 35/65 ratios, overlapping elements
 - **Purposeful animations** - Focused on high-impact moments
 
+## Demo
+
+- Left: **Skills**
+- Right: No Skills
+
+**Prompt:**
+
+![Prompt](assets/prompt.png)
+
+**Result:**
+
+![Demo](assets/demo.png)
+
 ## Installation
 
 ```bash
-/plugin install gh:sa/cc-frontend-skills
+# Add marketplace
+/plugin marketplace add oikon48/cc-frontend-skills
+
+# Install plugin
+/plugin install frontend-skills@cc-frontend-skills
 ```
 
 ## Usage
