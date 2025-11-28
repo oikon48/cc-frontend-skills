@@ -1,7 +1,6 @@
 # Frontend Skills Plugin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code Plugin](https://img.shields.io/badge/Claude%20Code-Plugin-blue)](https://github.com/oikon48/cc-frontend-skills)
 
 > **Note:** This project is for demonstrating Claude Skills with Claude Code.
 
