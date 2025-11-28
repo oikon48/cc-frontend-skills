@@ -1,0 +1,46 @@
+# Frontend Skills Plugin
+
+A Claude Code plugin for creating distinctive, production-grade frontend UIs that avoid generic "AI slop" aesthetics.
+
+## Features
+
+- **Distinctive typography** - Effective serif × sans-serif pairings
+- **Custom color palettes** - Beyond default Tailwind colors
+- **Asymmetric layouts** - 35/65 ratios, overlapping elements
+- **Purposeful animations** - Focused on high-impact moments
+
+## Installation
+
+```bash
+/plugin install gh:sa/cc-frontend-skills
+```
+
+## Usage
+
+Simply make frontend-related requests and the design skill will be applied automatically:
+
+```text
+Create a landing page for my SaaS product
+```
+
+```text
+Design a dashboard for a music streaming app
+```
+
+## Theme Examples
+
+1. **Nordic Minimal** - Scandinavian warmth and serenity
+2. **Neon Brutalism** - Cyberpunk × brutalist fusion
+3. **Organic Growth** - Natural, organic shapes
+4. **Tech Noir** - Dark-mode first tech aesthetic
+5. **Editorial Elegance** - Magazine-inspired editorial design
+
+## Resources
+
+- [SKILL.md](skills/frontend-design-system/SKILL.md) - Design guidelines
+- [themes.md](skills/frontend-design-system/themes.md) - Theme implementations
+- [components.md](skills/frontend-design-system/components.md) - Component patterns
+
+## License
+
+MIT

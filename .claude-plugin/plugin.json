@@ -1,0 +1,22 @@
+{
+  "name": "frontend-skills",
+  "version": "1.0.0",
+  "description": "Distinctive frontend design skills and agents for professional UI implementation. Avoid generic AI aesthetics with thoughtful typography, colors, layouts, and animations.",
+  "author": {
+    "name": "sa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sa/cc-frontend-skills"
+  },
+  "keywords": [
+    "frontend",
+    "design-system",
+    "ui",
+    "ux",
+    "tailwind",
+    "react",
+    "components"
+  ],
+  "license": "MIT"
+}
