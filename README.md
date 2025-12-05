@@ -4,7 +4,7 @@
 
 > **Note:** This project is for demonstrating Claude Skills with Claude Code.
 
-A Claude Code plugin for creating distinctive, production-grade frontend UIs that avoid generic "AI slop" aesthetics. This Skill and Subagent is generated with refering Anthropic blog: [Improving frontend design through Skills](https://www.claude.com/blog/improving-frontend-design-through-skills)
+A Claude Code plugin for creating distinctive, production-grade frontend UIs that avoid generic "AI slop" aesthetics. This Skill and Subagent is generated with referring Anthropic blog: [Improving frontend design through Skills](https://www.claude.com/blog/improving-frontend-design-through-skills)
 
 ## Features
 
